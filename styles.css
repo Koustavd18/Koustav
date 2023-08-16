@@ -310,22 +310,22 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 75%;
+    width: 85%;
 }
 .skills-content .right .js::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .data::before{
     width: 60%;
 }
 .skills-content .right .python::before{
-    width: 70%;
+    width: 50%;
 }
 .skills-content .right .ml::before{
     width: 60%;
 }
 .skills-content .right .java::before{
-    width: 50%;
+    width: 80%;
 }
 /* contact section styling */
 .contact-content{
